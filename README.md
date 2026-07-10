@@ -330,7 +330,7 @@ You built a model, but how do you **measure its performance**? Understanding met
 #### Cross-validation
 Cross-validation is **essential** to prevent overfitting and estimate model performance accurately.
 
-- 📚 [Cross-validation Guide - Neptune AI](https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right)
+- 📚 [Cross-validation Guide - Neptune AI](https://web.archive.org/web/20251006185719/https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right)
 
 ---
 
@@ -404,7 +404,7 @@ Signal processing is **crucial** in industrial ML projects. You need to filter o
 
 ### 3.5 Anomaly Detection
 - 📖 [Anomaly Detection Methods Review - ACM](https://dl.acm.org/doi/abs/10.1145/1541880.1541882)
-- 📖 [Anomaly Detection with Python - Neptune AI](https://neptune.ai/blog/anomaly-detection-in-time-series)
+- 📖 [Anomaly Detection with Python - Neptune AI](https://web.archive.org/web/20251006172936/https://neptune.ai/blog/anomaly-detection-in-time-series)
 - 📖 [Deep Learning Anomaly Detection](https://arxiv.org/pdf/2211.05244)
 - 🛠️ [Time Series Anomaly Detection Libraries](https://github.com/rob-med/awesome-TS-anomaly-detection)
 - 🛠️ [Selected Article 1](https://towardsdatascience.com/anomaly-detection-in-manufacturing-part-1-an-introduction-8c29f70fc68b/)
@@ -440,8 +440,8 @@ Alexey Grigoriev and his team have created an **excellent MLOps course** coverin
 ### 4.2 Model Registry and Experiment Tracking
 Model registry and experiment tracking are **critical** for managing models effectively, especially in a team setting.
 
-- 📚 [Model Registry - Neptune AI](https://neptune.ai/blog/ml-model-registry)
-- 📚 [Experiment Tracking - Neptune AI](https://neptune.ai/blog/ml-experiment-tracking)
+- 📚 [Model Registry - Neptune AI](https://web.archive.org/web/20251005125802/https://neptune.ai/blog/ml-model-registry)
+- 📚 [Experiment Tracking - Neptune AI](https://web.archive.org/web/20251127141526/https://neptune.ai/blog/ml-experiment-tracking)
 - 🛠️ [Hands-on Example - DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/02-experiment-tracking)
 
 ---
@@ -449,8 +449,8 @@ Model registry and experiment tracking are **critical** for managing models effe
 ### 4.3 ML Pipelines
 Well-structured **ML pipelines** streamline the model development and deployment process. Avoid hardcoded workflows—use proper pipeline tools!
 
-- 📚 [Building End-to-End ML Pipelines - Neptune AI](https://neptune.ai/blog/building-end-to-end-ml-pipeline)
-- 📚 [Best ML Workflow and Pipeline Orchestration Tools - Neptune AI](https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools)
+- 📚 [Building End-to-End ML Pipelines - Neptune AI](https://web.archive.org/web/20251005120733/https://neptune.ai/blog/building-end-to-end-ml-pipeline)
+- 📚 [Best ML Workflow and Pipeline Orchestration Tools - Neptune AI](https://web.archive.org/web/20251023112045/https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools)
 - 🛠️ [ML Pipelines with Mage/Prefect - DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/03-orchestration)
 
 💡 **Your goal?** Try implementing a small pipeline **from scratch** using one of the recommended tools.
